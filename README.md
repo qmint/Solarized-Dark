@@ -43,4 +43,10 @@ Copy the .xccolortheme file into the following directory:
 Solarized Dark for Terminal
 ========================
 
+Get the .terminal file and import it.
+
+```
 Terminal -> Preference -> Profiles -> Settings gear -> Import
+```
+
+Then choose it as your theme.
