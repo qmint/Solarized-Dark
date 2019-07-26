@@ -38,3 +38,9 @@ Copy the .xccolortheme file into the following directory:
 
 ## Created and maintained by
 [Arthur Ariel Sabintsev](http://www.sabintsev.com)
+
+
+Solarized Dark for Terminal
+========================
+
+Terminal -> Preference -> Profiles -> Settings gear -> Import
